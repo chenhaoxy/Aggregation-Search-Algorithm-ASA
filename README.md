@@ -5,5 +5,5 @@ Evolutionary feature selection methods with fixed length encoding and traditiona
 
 ## How to use
 ```
-python mainMethod.py
+python .\mainMethod.py
 ```
