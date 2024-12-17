@@ -13,4 +13,3 @@ def fitness(pops, x_data, y_data):
         fitness_value = func(feature_list, x_data, y_data)
         fits.append(fitness_value)
     return np.array(fits)
-
